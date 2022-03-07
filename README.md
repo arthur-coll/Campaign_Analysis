@@ -9,4 +9,5 @@ predictions, I obtain an expected revenue from each individual.
 - Feature Engineering
 - MySQL
 - Model Selection  
+
 This prediction is crucial to maximize the financial performance of that campaign for the charity. 
